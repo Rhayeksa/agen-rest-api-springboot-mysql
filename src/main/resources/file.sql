@@ -1,0 +1,4 @@
+-- INSERT INTO pelanggan
+--     (id, created_at, updated_at, nama, hp, email, alamat)
+-- VALUES
+--     (90, '2020-03-04 05:59:35.188078', NULL, )
